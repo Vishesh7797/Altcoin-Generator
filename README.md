@@ -37,7 +37,7 @@ The script will perform a couple of actions:
   * Build your new coin
   * Run 4 docker nodes with your coin daemon and connect each other.
     * A directory mapped for each node will be created: miner2, miner3, miner4, miner5. They contain data and configuration of each independent node.
-  * The GENESIS_REWARD_PUBKEY will be used in the UTXO of the genesis block. If you don't change it to your own before mining the genesis block you are agreeing to pay me the genesis block reward in case your coin succeeds (Thanks! :p)
+  * The GENESIS_REWARD_PUBKEY will be used in the UTXO of the genesis block. If you don't change it to your own before mining the genesis block you are agreeing to pay me the genesis block reward in case your coin succeeds (Thanks!)
   
 ## What can I do next?
 
@@ -66,5 +66,4 @@ bash altcoin_generator.sh clean_up
 ## Can I help the project?
 Sure. You can either submit patches, or make a donation if you found this project useful:
 
-LTC: Lcaey9FP2zdu4C9TSVffDG1DuKh78yCDYT
-BTC: 1BB44xSWSHwgM2AMP7MScqk2CALuo6A6UY
+BTC: 1FASMVa3nx3ycMRjgJfSY1iFETAeEzv9Ei
